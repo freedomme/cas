@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Set;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Test additional metadata validity.
